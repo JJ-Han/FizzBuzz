@@ -13,6 +13,7 @@ class FizzBuzz {
 //            // Find out which numbers divide i.
 //            doFizzBuzz(i);
 //        }
+        // to test committing in the computer lab
     }
 
     public static void doFizzBuzz(int i) {
